@@ -22,7 +22,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='qr_code_generator',
+    name='QR Code Generator',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
