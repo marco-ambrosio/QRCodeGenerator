@@ -1,0 +1,42 @@
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore other common Python-related files
+*.log
+*.pot
+*.py[cod]
+*.so
+*.sqlite3
+*.db
+*.dat
+*.csv
+*.tsv
+*.bak
+*.swp
+*.swo
+*.tmp
+*.temp
+*.orig
+*.rej
+*.sublime-project
+*.sublime-workspace
+*.idea/
+*.vscode/
+.DS_Store
+Thumbs.db
